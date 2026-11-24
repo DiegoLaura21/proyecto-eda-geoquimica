@@ -1,0 +1,4 @@
+﻿muestra_id,elemento,valor_original,accion,valor_corregido,evidencia
+QB-0128,Au,125000,corregir,1.25,Certificado sintético A-0128: 1250 ppb; error de transcripción simulado.
+QB-0500,Au,14800,conservar,,Ejercicio: confirmación simulada del ensayo Au 14.8 ppm y revisión geológica.
+QB-0501,Mo,-9,excluir,,Código negativo inválido simulado; sin concentración verificable.

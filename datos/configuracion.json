@@ -1,0 +1,25 @@
+{
+  "proyecto": "Proyecto Quebrada Brújula",
+  "columna_id": "muestra_id",
+  "columna_lote": "lote",
+  "grupos": ["dominio"],
+  "columnas_coordenadas": ["x_local_m", "y_local_m"],
+  "muestra_min_detecciones": 25,
+  "fraccion_min_detectados": 0.5,
+  "umbral_mad": 3.5,
+  "qaqc": {"blanco_max_en_lr":5,"duplicado_min_en_lr":10,"rpd_max_pct":30},
+  "elementos": {
+    "Au": {"columna": "Au_ppb", "unidad_entrada": "ppb", "unidad_salida": "ppm", "limite_reporte": 5},
+    "Ag": {"columna": "Ag_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 0.05},
+    "As": {"columna": "As_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 0.5},
+    "Sb": {"columna": "Sb_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 0.2},
+    "Cu": {"columna": "Cu_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 1},
+    "Pb": {"columna": "Pb_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 1},
+    "Zn": {"columna": "Zn_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 1},
+    "Mo": {"columna": "Mo_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 0.1},
+    "Fe": {"columna": "Fe_pct", "unidad_entrada": "%", "unidad_salida": "%", "limite_reporte": 0.01},
+    "Mn": {"columna": "Mn_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 2},
+    "Co": {"columna": "Co_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 0.2},
+    "Ni": {"columna": "Ni_ppm", "unidad_entrada": "ppm", "unidad_salida": "ppm", "limite_reporte": 1}
+  }
+}
