@@ -1,0 +1,53 @@
+{
+  "proyecto": "Proyecto Quebrada Brújula",
+  "muestras": 1000,
+  "elementos": [
+    "Au",
+    "Ag",
+    "As",
+    "Sb",
+    "Cu",
+    "Pb",
+    "Zn",
+    "Mo",
+    "Fe",
+    "Mn",
+    "Co",
+    "Ni"
+  ],
+  "ensayos": 12000,
+  "estados_entrada": {
+    "detectado": 11414,
+    "censura_izquierda": 520,
+    "faltante": 62,
+    "censura_derecha": 1,
+    "cero_revisar": 1,
+    "formato_invalido": 1,
+    "negativo_revisar": 1
+  },
+  "marcas_mad": 10,
+  "candidatos_revision": 333,
+  "pendientes_revision": 333,
+  "decisiones_aplicadas": 0,
+  "estados_qaqc": {
+    "ok": 634,
+    "revisar": 120,
+    "alerta": 6
+  },
+  "grupos_elemento_sin_mad": 0,
+  "entradas": {
+    "muestras": {
+      "archivo": "muestras_sinteticas.csv",
+      "sha256": "5972a358bff7afa4e1db4ec6aa6bb4b2c3b4edf1835bf5db2624fc759e8ee55c"
+    },
+    "configuracion": {
+      "archivo": "configuracion.json",
+      "sha256": "e8ddd2398c64b3572ee2b9b3f134d54db7227941c55b0ca807b6fc2adce1d0e7"
+    },
+    "qaqc": {
+      "archivo": "controles_sinteticos.csv",
+      "sha256": "8a0da09402de4a04cbb66188b6f939631ceb7d30d7951a63793d07fa8c3069b9"
+    },
+    "decisiones": null
+  }
+}

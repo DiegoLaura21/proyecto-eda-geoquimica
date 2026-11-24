@@ -1,0 +1,4 @@
+﻿grupo,unidad,n_detectados,n_cola_superior,media_detectados,mediana_detectados,media_ilustrativa_sin_cola,pct_suma_concentraciones_en_cola
+Corredor silíceo,ppm,268,3,0.8618082454,0.0848313,0.4717739991,45.87044747
+Intrusivo,ppm,225,3,0.6423247515,0.0137787,0.02045874815,96.8573584
+Volcánico,ppm,212,3,0.02259533476,0.0146253,0.02103003335,8.244605561

@@ -1,0 +1,15 @@
+﻿elemento,tipo,n_pares,n_rpd,mediana_rpd_pct,n_alerta
+Ag,duplicado_pulpa,20,0,,0
+As,duplicado_pulpa,20,12,5.454710148,0
+Au,duplicado_campo,20,5,10.22663278,2
+Au,duplicado_pulpa,20,7,5.223671874,0
+Au,duplicado_rechazo,20,3,16.77373429,0
+Co,duplicado_pulpa,20,20,7.570757969,0
+Cu,duplicado_pulpa,20,20,6.998442737,0
+Fe,duplicado_pulpa,20,20,7.08643768,0
+Mn,duplicado_pulpa,20,20,6.914972613,0
+Mo,duplicado_pulpa,20,1,9.031981223,0
+Ni,duplicado_pulpa,20,16,5.585341263,0
+Pb,duplicado_pulpa,20,14,11.61253245,0
+Sb,duplicado_pulpa,20,2,2.696037052,0
+Zn,duplicado_pulpa,20,20,9.01038174,0
